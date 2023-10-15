@@ -297,7 +297,7 @@ return (
             - Détection de surfaces sèches, vertes et aquatiques sur une image satellite 2D. 
         </List.Item>
         <List.Item>
-            - Utilisation du parallélisme de données sur GPUs avec OpenCL  (C/C++). 
+            - Utilisation du parallélisme de données sur GPUs avec OpenCL (C/C++). 
         </List.Item>
         <List.Item>
             - traitement d'image et programmation parallèle sur GPU.
