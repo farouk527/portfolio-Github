@@ -300,7 +300,7 @@ return (
             - Utilisation du parallélisme de données sur GPUs avec OpenCL (C/C++). 
         </List.Item>
         <List.Item>
-            - traitement d'image et programmation parallèle sur GPU. 
+            - traitement d'image et programmation parallèle sur GPU.
         </List.Item>
     </List>
 </Segment>
