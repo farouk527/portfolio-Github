@@ -118,7 +118,7 @@ return (
       <Grid.Column>
         <Header color='red'>À PROPOS</Header>
         <p>
-          Étudiant en M2, motivé et désireux d'améliorer ses compétences, croyant en la progression étape par étape pour atteindre ses objectifs, et ayant à cœur de travailler en équipe pour acquérir de solides connaissances. Je suis également désireux de m'investir activement dans la vie professionnelle. Je suis à la recherche d'un stage M2 pour la fin de mes études.
+        En tant qu'étudiant en Master 2, je suis animé par une motivation inébranlable et une volonté constante de perfectionner mes compétences. Ma conviction en la valeur de l'apprentissage progressif pour atteindre mes objectifs m'inspire au quotidien. De plus, je porte un profond intérêt à la collaboration en équipe, car je crois en son potentiel pour renforcer mes connaissances de manière significative. Mon désir ardent est de m'engager activement dans le monde professionnel, et c'est pourquoi je suis actuellement à la recherche d'une opportunité de stage en Master 2 pour conclure mes études de manière épanouissante.
         </p>
       </Grid.Column>
     </Grid>
@@ -152,7 +152,7 @@ return (
           <Progress percent="80" size='small' color='red' />
           <Header as='h4' content="LINUX" />
           <Progress percent="80" size='small' color='red' />
-          <Header as='h4' content="ESP32 \ HiveMQ \ MQTT" />
+          <Header as='h4' content="ARDUINO \ESP32 \ HiveMQ \ MQTT" />
           <Progress percent="75" size='small' color='red' />
           <Header as='h4' content="OPENMP \ OPENCL \ SYCL " />
           <Progress percent="65" size='small' color='red' />
@@ -300,7 +300,7 @@ return (
             - Utilisation du parallélisme de données sur GPUs avec OpenCL (C/C++). 
         </List.Item>
         <List.Item>
-            - Compétences en traitement d'image et programmation parallèle sur GPU. 
+            - traitement d'image et programmation parallèle sur GPU. 
         </List.Item>
     </List>
 </Segment>
