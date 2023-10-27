@@ -327,6 +327,67 @@ return (
   </Segment>
 
 
+  <Segment>
+  <Fade left>
+    <Container>
+      <Header as='h2' content='Parcours Académique' />
+
+      <Segment className='in-progress'>
+        <Header as='h4' content='UFR Sciences et Technique - Université De Bretagne Occidentale UBO' subheader='09/2022 - 09/2024, Brest, France' />
+        <List>
+          <List.Item>
+          Master Informatique Parcours Logiciels pour les
+          Systèmes Embarqués
+          </List.Item>
+         
+        </List>
+      </Segment>
+
+   
+
+      <Segment>
+        <Header as='h4' content="Institut Supérieur d'Informatique - Université De Tunis el Manar" subheader='10/2018 - 06/2021, Tunis Manar, Tunisie' />
+        <List>
+          <List.Item>
+            1 Ére Année Cycle Ingénieur
+          </List.Item>
+        </List>
+      </Segment>
+
+      <Segment className='seg'>
+        <Header as='h4' content="Institut Supérieur d'Informatique - Université De Tunis el Manar" subheader='09/2021 - 06/2022, Tunis, Tunisie' />
+        <List>
+          <List.Item>
+          Diplôme national de licence Appliquée Systèmes
+            Informatiques Embarqués       
+          </List.Item>
+        </List>
+      </Segment>
+    </Container>
+  </Fade>
+</Segment>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
