@@ -346,19 +346,19 @@ return (
    
 
       <Segment>
-        <Header as='h4' content="Institut Supérieur d'Informatique - Université De Tunis el Manar" subheader='10/2018 - 06/2021, Tunis Manar, Tunisie' />
+        <Header as='h4' content="Institut Supérieur d'Informatique - Université De Tunis el Manar" subheader='09/2021 - 06/2022, Tunis, Tunisie' />
         <List>
           <List.Item>
-            1 Ére Année Cycle Ingénieur
+            1 Ére Année Cycle Ingénieur - Systèmes Embarqués & internet des objets
           </List.Item>
         </List>
       </Segment>
 
       <Segment className='seg'>
-        <Header as='h4' content="Institut Supérieur d'Informatique - Université De Tunis el Manar" subheader='09/2021 - 06/2022, Tunis, Tunisie' />
+        <Header as='h4' content="Institut Supérieur d'Informatique - Université De Tunis el Manar" subheader='10/2018 - 06/2021, Tunis Manar, Tunisie' />
         <List>
           <List.Item>
-          Diplôme national de licence Appliquée Systèmes
+          Diplôme national de licence Appliquée - Systèmes
             Informatiques Embarqués       
           </List.Item>
         </List>
